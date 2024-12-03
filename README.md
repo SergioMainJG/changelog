@@ -3,6 +3,7 @@
 1. Realize a git clone to:
 
 ```url
+    https://github.com/SergioMainJG/changelog.git
 ```
 
 ## See the project
